@@ -238,7 +238,7 @@ void TEST3()
 	}
 	sum2 = sum2 * 0.000001;
 	double sum = sum1 + sum2;
-	printf("Fuzzy extractor runs in ................. %8f ms\n", sum);
+	printf("Fuzzy extractor runs in ................. %8f ms\n", sum1);
 }
 
 int main(void)
